@@ -1,0 +1,207 @@
+/*Background*/
+
+/*mobile*/
+
+
+body
+{
+    margin: 0px;
+    overflow: auto;
+}
+html{
+
+    direction: ltr;
+
+}
+/* margin padding border*/
+
+
+/* text properties*/
+.par
+{
+text-align:center;
+background-color:green;
+padding:15px;
+text-decoration: underline;
+
+overflow: hidden;
+}
+img.divs
+{
+margin: 300px;
+
+}
+.divs
+{
+
+text-align:center;
+margin: 50px 100px 100px 200px    ;
+
+width: 900px;
+height: 800px;
+
+
+
+}
+a:hover
+{
+color: #bbb;
+background-color: green;
+
+
+}
+label
+{
+  font-weight: bold;
+}
+.one
+{
+
+
+background-attachment: fixed;
+background-repeat: no-repeat;
+margin:1px 0 0 0;
+}
+.r
+{
+border: 2p solid green;
+
+
+}
+table
+{
+border-collapse: collapse;
+width:100%;
+
+
+}
+
+th,td
+{
+padding:5px;
+
+}
+th 
+{
+text-align:left;
+background-color:green;
+color:white;
+opacity:80%;
+
+}
+tr:nth-child(even)
+{
+background-color:#f2f2f2;
+}
+ul
+{
+background-color:black;
+list-style-type:none;
+
+padding:0;
+margin: 0px;
+overflow: hidden;
+}
+ul li a
+{
+padding: 20px;
+text-decoration: none;
+float:left;
+background-color:black;
+font-size:large;
+color:white;
+
+}
+
+
+li a:hover
+{
+background-color:green;
+padding: 20px;
+color:blue;
+}
+li a:link,a:visited
+{
+background-color:black;
+color:blue;
+padding: 20px;
+}
+
+.box
+{
+
+padding: 50px;
+margin: 50px 200px 400px 400px ;
+width: 400px;
+height: 750px;
+
+
+
+}
+
+div
+{
+border: 1px solid;
+
+background-color:#f2f2f2;
+margin: 0;
+
+}
+textarea
+{
+margin: 40px 200px 30px 200px;
+
+
+}
+input[type=text],input[type=email],input[type=password],select
+{
+  border: 1px solid gray;
+  width: 300px;
+  height: 30px;
+  color:gray;
+ 
+ 
+}
+input[type=submit]
+{
+background-color: blue;
+width: 300px;
+height: 40px;
+color:white;
+font-size: medium;
+font-weight: bold;
+}
+input[type=reset]
+{
+background-color:green;
+width: 150px;
+height: 50px;
+color:white;
+font-size: medium;
+font-weight: bold;
+}
+div a
+{
+  overflow:hidden;
+background-color: red;
+padding:15px;
+text-decoration: none;
+text-align: center;
+color:white;
+}
+
+.log
+{
+margin:0;
+padding: 20px;
+
+
+
+}
+
+
+
+
+
+/*desk top*/
+
